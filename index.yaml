@@ -3,12 +3,22 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.26.2
-    created: "2025-02-06T00:03:05.250274+07:00"
+    created: "2025-02-06T00:11:17.041164+07:00"
+    description: A helm chart for deploying the Nginx app
+    digest: badfc89ab0efcaec43ee08f042d9abc403131eb3d2161a1933dcbc7abaa404e1
+    name: webapp
+    type: application
+    urls:
+    - releases/webapp-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.26.2
+    created: "2025-02-06T00:11:17.040017+07:00"
     description: A helm chart for deploying the Nginx app
     digest: fa3cfa640b06c9726840a1b526514cb127cdb2cc4ab6fcc2e833471379696d1e
     name: webapp
     type: application
     urls:
-    - webapp-0.1.0.tgz
+    - releases/webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-06T00:03:05.248294+07:00"
+generated: "2025-02-06T00:11:17.038712+07:00"
