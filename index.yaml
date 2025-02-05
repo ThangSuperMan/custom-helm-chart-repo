@@ -3,12 +3,12 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.26.2
-    created: "2025-02-05T23:29:46.317814+07:00"
+    created: "2025-02-06T00:03:05.250274+07:00"
     description: A helm chart for deploying the Nginx app
     digest: fa3cfa640b06c9726840a1b526514cb127cdb2cc4ab6fcc2e833471379696d1e
     name: webapp
     type: application
     urls:
-    - https://github.com/ThangSuperMan/custom-helm-chart-repo/webapp-0.1.0.tgz
+    - webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-05T23:29:46.31674+07:00"
+generated: "2025-02-06T00:03:05.248294+07:00"
